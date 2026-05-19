@@ -1,0 +1,24 @@
+[
+  {
+    "title": "Treasure Trail!",
+    "text": "You find a casket stuffed with loot.",
+    "amounts": "default",
+    "image": "casket.png",
+    "gif_left": "sparkle.gif",
+    "gif_right": null,
+    "gif_duration_ms": 5000,
+    "gif_size": [220, 220],
+    "sound": "coins.wav"
+  },
+  {
+    "title": "Rare Drop!",
+    "text": "A rare drop hits the ground.",
+    "amounts": [200, 300, 500, 1000],
+    "image": "rare_drop.png",
+    "gif_left": null,
+    "gif_right": "loot.gif",
+    "gif_duration_ms": 6000,
+    "gif_size": [240, 240],
+    "sound": "level_up.wav"
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "id": "wildy_team",
+    "title": "You Encounter a Team in the Wild!",
+    "text": "A group piles you. The 70 man team splits 300k",
+    "amounts": "default",
+    "sound": "Ice_Barrage.wav",
+    "gif_left": "Ice_Barrage.gif",
+    "gif_right": "The_Judgement.gif",
+    "gif_duration_ms": 5800,
+    "gif_size": [320, 320]
+  },
+  {
+    "id": "pickpocketed",
+    "title": "Ope! You just got pickpocketed!",
+    "text": "You feel a tug at your coin pouch.",
+    "amounts": "default",
+    "sound": "pickpocket.wav",
+    "gif_left": "Pickpocket.gif",
+    "gif_right": "Pickpocket.gif",
+    "gif_duration_ms": 5800,
+    "gif_size": [320, 320]
+  },
+  {
+    "id": "jad_appears",
+    "title": "Jad appears!!",
+    "text": "You pray the wrong prayer, Jad one hits you!",
+    "amounts": "default",
+    "sound": "jad.wav",
+    "gif_left": "jad.gif",
+    "gif_right": "jad.gif",
+    "gif_duration_ms": 5800,
+    "gif_size": [320, 320]
+  },
+  {
+    "id": "Too many drinks",
+    "title": "Too many drinks at the Rellekka Longhall ",
+    "text": "You wake up hungover, pants shitted, and with less gp",
+    "amounts": "default",
+    "sound": "drink.wav",
+    "gif_left": "drinking.gif",
+    "gif_right": "cry.gif",
+    "gif_duration_ms": 5800,
+    "gif_size": [320, 320]
+  },
+  {
+    "id": "Sandwich Lady",
+    "title": "Sandwich Lady appears ",
+    "text": "She nags you to get off the game",
+    "amounts": "default",
+    "sound": "lady.wav",
+    "gif_left": "lady.gif",
+    "gif_right": "lady.gif",
+    "gif_duration_ms": 5800,
+    "gif_size": [320, 320]
+  }
+
+
+]
+

@@ -1,0 +1,178 @@
+[
+  {
+    "category": "Skilling",
+    "clues": [
+      {"value": 100, "question": "What level of mining do you need for clay?", "answer": "1"},
+      {"value": 100, "question": "What level of thieving do you need for cake stalls?", "answer": "5"},
+      {"value": 100, "question": "What level of woodcutting is required for oak trees", "answer": "15"},
+      {"value": 100, "question": "What skill lets you mine iron?", "answer": "Mining"},
+      {"value": 100, "question": "What skill allows you to catch chins?", "answer": "Hunter"},
+
+      {"value": 200, "question": "What Mining level is required to mine silver ore?", "answer": "20"},
+      {"value": 200, "question": "What is the level to make bowstring?", "answer": "10"},
+      {"value": 200, "question": "What level is required to thieve a man/woman?", "answer": "1"},
+      {"value": 200, "question": "What is the most common potion made after druidic ritual", "answer": "Attack Potion"},
+      {"value": 200, "question": "What woodcutting level is required to cut willow trees?", "answer": "30"},
+
+      {"value": 300, "question": "What level is needed to cut magic logs?", "answer": "75"},
+      {"value": 300, "question": "What fletching level is required to make a yew shortbow?", "answer": "65"},
+      {"value": 300, "question": "How many coal are required to make an addy bar?", "answer": "6"},
+      {"value": 300, "question": "What is the fairy ring code for karambwanji", "answer": "CKR"},
+      {"value": 300, "question": "What level is required to hunt grey chins?", "answer": "53"},
+
+      {"value": 400, "question": "What level of smithing is required for making a steel platebody", "answer": "48"},
+      {"value": 400, "question": "What level of herb is required to making super def pots?", "answer": "66"},
+      {"value": 400, "question": "How many bars are required to make platelegs?", "answer": "3"},
+      {"value": 400, "question": "What level of runecrafting is required for nature runes?", "answer": "44"},
+      {"value": 400, "question": "What major city is by where you make water runes", "answer": "Lumbridge"},
+
+      {"value": 500, "question": "What level of thieving is required for thieving chest in Cox", "answer": "1"},
+      {"value": 500, "question": "What is the level required to make sunlight bolts ", "answer": "62"},
+      {"value": 500, "question": "What construction level is required to make a master clue stash unit?", "answer": "88"},
+      {"value": 500, "question": "What agility level is required to jump the barrows wall?", "answer": "72"},
+      {"value": 500, "question": "What is the name of the NPC that gives the 99 slayer cape?", "answer": "Kuradal"}
+    ]
+  },
+  {
+    "category": "Bossing",
+    "clues": [
+      {"value": 100, "question": "What free-to-play boss is the hill giant?", "answer": "Obor"},
+      {"value": 100, "question": "What dragon is located in Crandor?", "answer": "Elvarg"},
+      {"value": 100, "question": "What boss drops the Dragon Warhammer?", "answer": "Lizardman Shaman"},
+      {"value": 100, "question": "What boss is fought during Dragon Slayer I?", "answer": "Elvarg"},
+      {"value": 100, "question": "What boss is found by digging in falador park?", "answer": "Giant Mole"},
+
+      {"value": 200, "question": "What boss is found in the God Wars Dungeon and aligned with Bandos?", "answer": "General Graardor"},
+      {"value": 200, "question": "What boss drops the unsired?(4 letters)", "answer": "Sire"},
+      {"value": 200, "question": "What boss drops the Rune Crossbow in the Wilderness? (2 words)", "answer": "Crazy archaeologist"},
+      {"value": 200, "question": "What boss is associated with farming", "answer": "Hespori"},
+      {"value": 200, "question": "What boss drops the Berserker Ring?", "answer": "Dagannoth Rex"},
+
+      {"value": 300, "question": "What raid drops the Twisted Bow?(3 Letters)", "answer": "COX"},
+      {"value": 300, "question": "What boss drops the Venator Shard?", "answer": "Muspah"},
+      {"value": 300, "question": "What is the weakness of the kalphite Queen?", "answer": "Crush"},
+      {"value": 300, "question": "How many waves are there in the fight caves?", "answer": "63"},
+      {"value": 300, "question": "How many healers do Jad spawn", "answer": "4"},
+
+      {"value": 400, "question": "How many KC do you need to enter a Godwars boss with hard combat achievement", "answer": "35"},
+      {"value": 400, "question": "What is the drop rate for an enhanced crystal seed from corrupted chest(asnwer x/xxx)", "answer": "1/400"},
+      {"value": 400, "question": "What is the combat level of callisto", "answer": "470"},
+      {"value": 400, "question": "What is the drop rate for a barrows item(answer x/xx)", "answer": "1/15"},
+      {"value": 400, "question": "What is the drop rate for a dragon pick from the chaos elemental(answer x/xxx)", "answer": "1/256"},
+
+      {"value": 500, "question": "What city is TOB in?", "answer": "Darkmeyer"},
+      {"value": 500, "question": "What port is closest to Zulrah?(1 word)", "answer": "Tyras"},
+      {"value": 500, "question": "What combat level is the gem stone crab", "answer": "160"},
+      {"value": 500, "question": "How many skilling bosses are there?", "answer": "4"},
+      {"value": 500, "question": "How many rats does Scurrius spawn?", "answer": "6"}
+    ]
+  },
+  {
+    "category": "Quests",
+    "clues": [
+      {"value": 100, "question": "What quest shears sheep in lummy?", "answer": "Sheep Shearer"},
+      {"value": 100, "question": "What quest gives barrows gloves", "answer": "recipe for disaster"},
+      {"value": 100, "question": "What quest gives the ghost speak ammy?", "answer": "restless ghost"},
+      {"value": 100, "question": "What quest gives the silverlight ", "answer": "demon slayer"},
+      {"value": 100, "question": "What quest gives 13k attk and str xp and is related to Glarial?( 1 word)", "answer": "Waterfall"},
+
+      {"value": 200, "question": "How many quest points are required for entrance of champ guild", "answer": "32"},
+      {"value": 200, "question": "What quest gives access to fairy rings", "answer": "Fairytale 2"},
+      {"value": 200, "question": "What quest gives you a cat?", "answer": "Gertrudes cat"},
+      {"value": 200, "question": "Where do you start Fremmy Trials (8 letters long)", "answer": "Rellekka"},
+      {"value": 200, "question": "What city do you start elemental workshop in?", "answer": "Camelot"},
+
+      {"value": 300, "question": "How many quest points does Romeo and Juliet give?", "answer": "5"},
+      {"value": 300, "question": "What skill level is require in cooking for RFD freeing lummy guide ", "answer": "40"},
+      {"value": 300, "question": "How many limproots are needed for temple of Ikov?", "answer": "20"},
+      {"value": 300, "question": "What quest NPC gives a device that collects arrows/bolts?", "answer": "Ava"},
+      {"value": 300, "question": "What quest lets you cast vengeance", "answer": "Lunar diplomacy"},
+
+      {"value": 400, "question": "What is the name of the NPC that you cook a jubbly for", "answer": "rantz"},
+      {"value": 400, "question": "How many quest points are required to start the legends quest?", "answer": "107"},
+      {"value": 400, "question": "What quest gives free entry to Al Kharid ", "answer": "Prince Ali Rescue"},
+      {"value": 400, "question": "What quest is required to use boxtraps", "answer": "eagles peak"},
+      {"value": 400, "question": "What quest gives access to balloon travel", "answer": "enlightened journey"},
+
+      {"value": 500, "question": "What is Gertrude's cat name?", "answer": "Fluffs"},
+      {"value": 500, "question": "In the quest Horror from the Deep, you're looking for the disappearance of this NPC", "answer": "Jossik"},
+      {"value": 500, "question": "What agility level is required for Ghosts Ahoy", "answer": "25"},
+      {"value": 500, "question": "What range level is required for Cabin Fever", "answer": "40"},
+      {"value": 500, "question": "How many quests do you need to complete prior to Kings ransom", "answer": "9"}
+    ]
+  },
+  {
+    "category": "Not OSRS",
+    "clues": [
+      {"value": 100, "question": "Who is the biggest fast food chain?", "answer": "Mcdonalds"},
+      {"value": 100, "question": "What is 14 x 3", "answer": "42"},
+      {"value": 100, "question": "Where is the statue of Liberty located?", "answer": "New York"},
+      {"value": 100, "question": "What color is the stop sign", "answer": "red"},
+      {"value": 100, "question": "How many inches in a foot", "answer": "12"},
+
+      {"value": 200, "question": "Anal or Vag", "answer": "Vag"},
+      {"value": 200, "question": "Coke or Pepsi", "answer": "Coke"},
+      {"value": 200, "question": "H20 is (5 letter answer)", "answer": "water"},
+      {"value": 200, "question": "How many weeks in a year", "answer": "52"},
+      {"value": 200, "question": "When is Independance day for the US", "answer": "July 4"},
+
+      {"value": 300, "question": "What is the capitol of IL?", "answer": "Springfield"},
+      {"value": 300, "question": "What is K on the period table ", "answer": "potassium"},
+      {"value": 300, "question": "What was the first animal to ever be cloned?", "answer": "Sheep"},
+      {"value": 300, "question": "What 1997 movie features Will Smith and Tommy Lee Jones as undercover secret agents who police extraterrestrials?", "answer": "Men in Black"},
+      {"value": 300, "question": "How many degrees are in a circle", "answer": "360"},
+
+      {"value": 400, "question": "Which blood type is a universal donor?(use one letter)", "answer": "O"},
+      {"value": 400, "question": "Who was the first “American Idol” winner?", "answer": "Kelly Clarkson"},
+      {"value": 400, "question": "How many folds are in a chef's hat? ", "answer": "100"},
+      {"value": 400, "question": "What is the best-selling video game franchise? ", "answer": "mario"},
+      {"value": 400, "question": "What country uses approximately four billion miles of toilet paper each year?", "answer": "china"},
+
+      {"value": 500, "question": "What year was eBay founded?", "answer": "1995"},
+      {"value": 500, "question": "Which number does every Major League Baseball player wear on April 15?", "answer": "42"},
+      {"value": 500, "question": "What is the world's most populated city?", "answer": "Tokyo"},
+      {"value": 500, "question": "Who did the U.S. buy Florida from?", "answer": "Spain"},
+      {"value": 500, "question": "What country does “The Jungle Book” take place in?", "answer": "India"}
+    ]
+  },
+  {
+    "category": "Locations",
+    "clues": [
+      {"value": 100, "question": "What city is the home of the Grand Exchange?", "answer": "Varrock"},
+      {"value": 200, "question": "What city is located west of Lumbridge?", "answer": "Draynor Village"},
+      {"value": 300, "question": "What island is home to Zulrah?", "answer": "Fossil Island"},
+      {"value": 400, "question": "What city is unlocked after Song of the Elves?", "answer": "Prifddinas"},
+      {"value": 500, "question": "What area contains the Inferno?", "answer": "Mor Ul Rek"}
+    ]
+  },
+  {
+    "category": "NPCs",
+    "clues": [
+      {"value": 100, "question": "Who gives the Dragon Slayer quest?", "answer": "Oziach"},
+      {"value": 200, "question": "Who runs the Grand Exchange?", "answer": "Grand Exchange Clerks"},
+      {"value": 300, "question": "Who is the leader of the White Knights?", "answer": "Sir Amik Varze"},
+      {"value": 400, "question": "Who rules over Morytania?", "answer": "Lord Drakan"},
+      {"value": 500, "question": "Who is the final boss of Desert Treasure II?", "answer": "The Whisperer"}
+    ]
+  },
+  {
+    "category": "Combat",
+    "clues": [
+      {"value": 100, "question": "What combat style uses bows?", "answer": "Ranged"},
+      {"value": 200, "question": "What prayer boosts melee strength?", "answer": "Piety"},
+      {"value": 300, "question": "What combat skill affects max hitpoints?", "answer": "Hitpoints"},
+      {"value": 400, "question": "What attack style increases accuracy?", "answer": "Accurate"},
+      {"value": 500, "question": "What combat level is required to enter the Warriors' Guild?", "answer": "130"}
+    ]
+  },
+  {
+    "category": "Minigames",
+    "clues": [
+      {"value": 100, "question": "What minigame rewards Void Knight equipment?", "answer": "Pest Control"},
+      {"value": 200, "question": "What minigame is played at the Barbarian Outpost?", "answer": "Barbarian Assault"},
+      {"value": 300, "question": "What minigame lets you train Runecrafting safely?", "answer": "Guardians of the Rift"},
+      {"value": 400, "question": "What minigame rewards graceful recolors?", "answer": "Agility Arena"},
+      {"value": 500, "question": "What minigame is required for the Infernal cape?", "answer": "The Inferno"}
+    ]
+  }
+]
